@@ -1,0 +1,9 @@
+{
+  "timestamp": "20251112_194646",
+  "prompt": "post-apocalyptic, damaged buildings, smoke",
+  "negative_prompt": "distortion, low quality, white background",
+  "cfg_scale": 13.6,
+  "seed": 74294536,
+  "target": "background",
+  "image_path": "C:\\Users\\Ohara\\Desktop\\__Udacity\\generative_ai\\ai_photo_editing_inpainting\\starter\\outputs\\app_runs\\inpaint_20251112_194646.png"
+}
